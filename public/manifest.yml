@@ -1,0 +1,5 @@
+---
+applications:
+  - name: rahul-mscores-msr
+    memory: 128M
+    disk: 100M
